@@ -1,7 +1,10 @@
-## Nuxt 찍먹 프로젝트
+# Nuxt 찍먹 프로젝트
 -   Vue는 알고있으니 nuxt 는 어떤맛인지 제대로 찍어먹어보자
 -   아래에 배운점들을 nuxt document 의 메뉴 순서대로 하나씩 쓰고 감상을 적어보자
+-   집중력이 딸려보이니 하루에 1-2시간씩 1주일정도 잡고 쭉 달려보자
 
+
+# 1일차 - 기본컨셉
 ## Configuration
 ### Enviroment Variables
 -   runtimeConfig object를 설정하면 .env 에서 끌어오기 가능
@@ -108,3 +111,24 @@ app.vue → <NuxtLayout> → <NuxtPage>(index.vue)
 - 그냥 페이지 change 형식을 냅다 지원하는듯
 - nuxt.config.ts에서 app -> pageTransition 에서 ㅜ믇rhk mode로 가능하나봄
 - ㅇㅇ 확실함 page-enter/leave-active 이런식으로 넣는거보니 기억이 새롬새롬 남 
+
+# 2일차 - 기본컨셉
+## Data Fetching
+## State Management
+## Error Handling
+## Server
+
+# 3일차 - 기본컨셉
+## Layers
+## Prerendering
+## Deployment
+## Testing
+## Upgrade Guide
+
+# 4일차 - Structure
+
+# 5일차 - Guide 정독 및 정리
+
+# 6일차 - API 정독 및 쓸만한거 모아서 정리해두기 
+
+
