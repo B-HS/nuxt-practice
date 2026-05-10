@@ -11,6 +11,8 @@ export default defineNuxtConfig({
     }
   },
 
+  
+
   modules: [
     '@nuxt/a11y',
     '@nuxt/image',
