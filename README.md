@@ -31,3 +31,7 @@
 
 ### Layouts
 -   이건 추후 Layouts로 더 심도있게 다뤄야할듯, Nextjs랑 좀 많이다름
+
+## Assets
+- public이 찐 static url, app은 그냥 번들할때 같이 끌어서 쓰는듯
+- nextjs는 public 제대로 안해주더만.. 이건 그냥 assets에 넣고하면 잘 될듯하니 편하긴하네 
